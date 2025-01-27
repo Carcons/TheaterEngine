@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources-Build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E526976-2717-373E-873D-6D51CC356848}|GameProjectTemplate-Lib.vcxproj|C:\\dev\\TheaterEngine\\GameProjectTemplate\\EditorInterface\\EditorInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E526976-2717-373E-873D-6D51CC356848}|GameProjectTemplate-Lib.vcxproj|C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources\\DemoActor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E526976-2717-373E-873D-6D51CC356848}|GameProjectTemplate-Lib.vcxproj|C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources\\DemoActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditorInterface.cpp",
+              "DocumentMoniker": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\EditorInterface\\EditorInterface.cpp",
+              "RelativeDocumentMoniker": "..\\EditorInterface\\EditorInterface.cpp",
+              "ToolTip": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\EditorInterface\\EditorInterface.cpp",
+              "RelativeToolTip": "..\\EditorInterface\\EditorInterface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T20:56:33.584Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoActor.hpp",
+              "DocumentMoniker": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources\\DemoActor.hpp",
+              "RelativeDocumentMoniker": "..\\Sources\\DemoActor.hpp",
+              "ToolTip": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources\\DemoActor.hpp",
+              "RelativeToolTip": "..\\Sources\\DemoActor.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T19:34:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoActor.cpp",
+              "DocumentMoniker": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources\\DemoActor.cpp",
+              "RelativeDocumentMoniker": "..\\Sources\\DemoActor.cpp",
+              "ToolTip": "C:\\dev\\TheaterEngine\\GameProjectTemplate\\Sources\\DemoActor.cpp",
+              "RelativeToolTip": "..\\Sources\\DemoActor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-30T15:33:47.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
